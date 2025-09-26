@@ -17,7 +17,7 @@ int main() {
     scanf(" %c %c", &estado1, &estado2);
 
     // Códigos
-    printf("Digite o código (letra representado o estado seguido de número) da Carta 1 e da Carta 2, respectivamente (ex: A01 B02): ");
+    printf("Digite o código (letra representando o estado seguido de número) da Carta 1 e da Carta 2, respectivamente (ex: A01 B02): ");
     scanf("%s %s", codigo1, codigo2);
 
     // Nome das cidades
